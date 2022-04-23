@@ -8,5 +8,5 @@ Proyectos desarrollados en la semana 3:
 |`spiderverse`|2|[Link al repo](https://github.com/JonathanJRodriguez/spiderverse)|
 |`twitter-sprint1`|3|[Link al repo](https://github.com/JonathanJRodriguez/twitter-sprint1)|
 |`twitter`|4, 5|[Link al repo](https://github.com/JonathanJRodriguez/twitter)|
-|`express_basic`|6|[Link al repo](https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS)|
-|`express_api`|7|[Link al repo](https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS)|
+|`express_basic`|6|[Link al repo](https://github.com/JonathanJRodriguez/express_basic)|
+|`express_api`|7|[Link al repo](https://github.com/JonathanJRodriguez/express_api)|
